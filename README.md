@@ -1,1 +1,1 @@
-CRUD application using AngularJS and Slim PHP framework.
+CRUD application PHP.
